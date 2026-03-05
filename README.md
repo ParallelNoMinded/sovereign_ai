@@ -12,11 +12,13 @@
 
 | Модуль | Тема | Статус | Дедлайн |
 | :--- | :--- | :--- | :--- |
-| **[Module 1](./module_01)** | Экосистема и Промпт-инжиниринг (DSPy) | ✅ Открыт | --.--.2026 |
-| **[Module 2](./module_02)** | **The Engine: Hybrid RAG & Logic** | 🚀 **Active** | --.--.2026 |
-| **[Module 3](./module_03)** | Agent Architecture (LangGraph) | 🔒 Скоро | --.--.2026 |
-| **[Module 4](./module_04)** | LLMOps & Observability | 🔒 Скоро | --.--.2026 |
-| **[Final Project](./final_project)** | Sovereign Code Oracle | 🔒 Скоро | --.--.2026 |
+| **[Module 1](./module_01)** | Экосистема и Промпт-инжиниринг (DSPy) | ✅ Открыт | 02.03.2026 |
+| **[Module 2](./module_02)** | **The Engine: Hybrid RAG & Logic** | 🚀 ✅ Открыт | 03.03.2026 |
+| **[Module 3](./module_03)** | Agent Architecture (LangGraph) | **Active** | 05.03.2026 |
+| **[Module 4](./module_04)** | LLMOps & Observability | 🔒 Скоро | --.03.2026 |
+| **[Module 5](./module_04)** | Open-Source AI ecosystem | 🔒 Скоро | --.03.2026 |
+| **[Module 6](./module_04)** | AI Methodology | 🔒 Скоро | --.03.2026 |
+| **[Module 7](./module_04)** | Sovereign AI | 🔒 Скоро | --.03.2026 |
 
 ---
 
