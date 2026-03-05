@@ -1,0 +1,24 @@
+# Ядро оркестрации и работы с ИИ
+langchain==0.1.0
+langchain-core==0.1.12
+langchain-ollama
+langchain-community
+
+# Агентная логика и графы
+langgraph
+
+# Память и векторные БД
+lancedb
+qdrant-client
+sentence-transformers
+
+# Графы связей (для HippoRAG)
+networkx
+
+# Трейсинг и Observability
+arize-phoenix
+
+# Тестирование и среда
+jupyter
+pytest
+pydantic>=2.0.0

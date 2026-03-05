@@ -1,0 +1,23 @@
+# Системные и кэш файлы
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# Виртуальные окружения
+venv/
+.env
+
+# Логи и временные данные
+*.log
+ollama.log
+
+# Локальные базы данных (они не должны быть в репозитории!)
+phoenix-data/
+lancedb_data/
+tasks.db
+.qdrant/
+
+# Секреты и ключи
+*.env
+.secret.json
