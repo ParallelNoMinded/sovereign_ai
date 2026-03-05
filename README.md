@@ -1,4 +1,4 @@
-# 🏗 Sovereign AI Architect: Course Repository (2026)
+# 🏗 Sovereign AI: Course Repository (2026)
 
 Добро пожаловать в официальный репозиторий практического курса **"Применение ИИ в разработке ПО: От Copilot к Автономным Агентам"**.
 
