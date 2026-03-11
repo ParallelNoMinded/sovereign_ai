@@ -1,11 +1,12 @@
 # Ядро оркестрации и работы с ИИ
-langchain==0.1.0
-langchain-core==0.1.12
+langchain>=0.3.0
+langchain-core>=0.3.0
 langchain-ollama
 langchain-community
 
 # Агентная логика и графы
 langgraph
+mcp
 
 # Память и векторные БД
 lancedb
@@ -22,3 +23,29 @@ arize-phoenix
 jupyter
 pytest
 pydantic>=2.0.0
+
+# API и Микросервисы (Для обертки LangGraph)
+fastapi
+uvicorn
+
+# Безопасность, DLP и Песочницы (Guardrails)
+e2b_code_interpreter
+spacy
+presidio-analyzer
+nemoguardrails
+
+# Трейсинг и Observability
+arize-phoenix
+langfuse
+openinference-instrumentation-langchain
+
+# Оценка качества (LLM Evaluation)
+ragas
+deep-eval
+sentence-transformers
+
+# Тестирование и среда
+jupyter
+pytest
+pydantic>=2.5.0
+nest-asyncio
