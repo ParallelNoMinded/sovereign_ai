@@ -41,7 +41,7 @@ openinference-instrumentation-langchain
 
 # Оценка качества (LLM Evaluation)
 ragas
-deep-eval
+deepeval
 sentence-transformers
 
 # Тестирование и среда
