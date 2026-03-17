@@ -18,7 +18,7 @@
 | **[Module 4](./module_04)** | LLMOps & Observability | ✅ Открыт | 10.03.2026 |
 | **[Module 5](./module_04)** | Open-Source AI ecosystem | ✅ Открыт | 12.03.2026 |
 | **[Module 6](./module_04)** | AI Methodology | ✅ Открыт | 16.03.2026 |
-| **[Module 7](./module_04)** | Sovereign AI |**🚀 Active** | 18.03.2026 |
+| **[Module 7](./module_04)** | Sovereign AI | ✅ Открыт | 18.03.2026 |
 
 ---
 
